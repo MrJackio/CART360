@@ -1,0 +1,1 @@
+Unfortuantly, I was not able to upload the whole unity project to github, please let me know if there is anything specifically you need from it. I have included the main line of code which allows for communication between the vive tracker, arduino, and unity. I have also included a screenshot of the frimpo model.
